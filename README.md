@@ -35,3 +35,9 @@ Probs requires a `npm install -g webpack@2`
 Basically chuck anything you need for your wordpress theme in the your_theme directory
 
 Prod webpack files coming. Good development kit to get started though.
+
+## Support for 
+
+- Scss
+- React
+- ES stage 2
