@@ -1,8 +1,8 @@
 {
   "name": "webpack-wordpress",
-  "author": "Sloan Sparger",
+  "author": "Kieran McDonald",
   "version": "0.0.0",
-  "description": "Build Wordpress themes using Webpack and Hot Module Reloading",
+  "description": "Wordpress with basic webpack dev framework",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
@@ -23,6 +23,6 @@
     "write-file-webpack-plugin": "^3.1.8"
   },
   "scripts": {
-    "build": "webpack"
+    "start": "webpack --watch"
   }
 }
