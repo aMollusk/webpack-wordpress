@@ -4,7 +4,7 @@ Clone this repo in to the root directory of your wordpress installation.
 
 ## Get started on this and be hella rad
 
-1. You'll need a server, a database, and PHP. Install XAMPP started. [Install XAMPP](https://www.apachefriends.org/index.html)
+1. You'll need a server, a database, and PHP. [Install XAMPP started](https://www.apachefriends.org/index.html).
 2. When it installs, open up the control panel and start Apache server and PHPMyAdmin/MaridaDB.
 3. Your directory lives at `/Applications/XAMPP/htdocs/ANY_DIRECTORY_YOU_LIKE` - Mac only.
 4. Unzip [Wordpress](https://wordpress.org/download/) in to that directory.
@@ -22,6 +22,8 @@ ANY_DIRECTORY_YOU_LIKE || wordpress
 
 you can access at http://localhost/ANY_DIRECTORY_YOU_LIKE
 
+`cd` in to this repo and:
+
 Probs requires a `npm install -g webpack@2`
 
 1. `npm install`.
@@ -32,4 +34,4 @@ Probs requires a `npm install -g webpack@2`
 
 Basically chuck anything you need for your wordpress theme in the your_theme directory
 
-Prod builds coming. Good development kit to get started though.
+Prod webpack files coming. Good development kit to get started though.
