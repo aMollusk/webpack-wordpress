@@ -4,7 +4,7 @@ Clone this repo in to the root directory of your wordpress installation.
 
 ## Get started on this and be hella rad
 
-1. You'll need a server, a database, and PHP. [Install XAMPP started](https://www.apachefriends.org/index.html).
+1. You'll need a server, a database, and PHP. [Install XAMPP to get started](https://www.apachefriends.org/index.html).
 2. When it installs, open up the control panel and start Apache server and PHPMyAdmin/MaridaDB.
 3. Your directory lives at `/Applications/XAMPP/htdocs/ANY_DIRECTORY_YOU_LIKE` - Mac only.
 4. Unzip [Wordpress](https://wordpress.org/download/) in to that directory.
