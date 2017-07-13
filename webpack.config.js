@@ -21,7 +21,8 @@ module.exports = {
         {
           loader: 'babel-loader',
           options: {
-            presets: ["react", "stage-2", "es2015"]
+            presets: ["react", "stage-2", "es2015"],
+            plugins: ["transform-class-properties"]
           }
         }
       ]},
